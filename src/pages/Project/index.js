@@ -3,7 +3,6 @@ import React from "react";
 function Project() {
   return (
     <main class="d-flex flex-column bg-light p-5">
-
       <section class="d-flex flex-wrap">
         <div class="card p-3 mt-2 mb-2 d-flex flex-column flex-lg-row">
           <div>
