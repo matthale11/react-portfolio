@@ -3,7 +3,9 @@ footer {
   background-color: #5022bd;
 }
 
-
+main {
+  margin-bottom: 120px;
+}
 
 h3 {
   color: #eda528;
