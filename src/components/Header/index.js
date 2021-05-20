@@ -36,7 +36,7 @@ function Header() {
         </h4>
         <h4 class="p-2">
           <a
-            href="matt-hale-resume.pdf"
+            href={process.env.PUBLIC_URL + "/images/matt-hale-resume.pdf"}
             target="_blank"
             style={{ color: "#eda528" }}
           >
