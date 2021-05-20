@@ -6,4 +6,4 @@ Use the header to access my profiles on external websites. The cards in the body
 
 [GitHub Repository](https://github.com/matthale11/react-portfolio)
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](/public/images/screenshot.png)
