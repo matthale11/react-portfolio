@@ -12,8 +12,8 @@ function App() {
       <div className="App">
         <Header />
         <Switch>
-          <Route exact path="/" component={Project} />
-          <Route exact path="/bio" component={Bio} />
+          <Route exact path="/react-portfolio/" component={Project} />
+          <Route exact path="/react-portfolio/bio/" component={Bio} />
         </Switch>
         <Footer />
       </div>
