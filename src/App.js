@@ -8,12 +8,12 @@ import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Header />
         <Switch>
-          <Route exact path="/react-portfolio/" component={Project} />
-          <Route exact path="/react-portfolio/bio/" component={Bio} />
+          <Route exact path="/" component={Project} />
+          <Route exact path="/bio" component={Bio} />
         </Switch>
         <Footer />
       </div>

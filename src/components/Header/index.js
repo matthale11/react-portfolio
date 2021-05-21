@@ -7,12 +7,12 @@ function Header() {
     <header class="pb-5">
       <nav class="navbar fixed-top d-flex flex-row justify-content-start pl-5">
         <h1 class="pr-2">
-          <a href="/" style={{ color: "white" }}>
+          <a href="/react-portfolio" style={{ color: "white" }}>
             Matt Hale
           </a>
         </h1>
         <h4 class="p-2">
-          <a href="/bio" style={{ color: "#eda528" }}>
+          <a href="/react-portfolio/bio" style={{ color: "#eda528" }}>
             Bio
           </a>
         </h4>
